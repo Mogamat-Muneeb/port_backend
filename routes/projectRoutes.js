@@ -36,6 +36,13 @@ app.get('/',(req,res) => {
 });
 
 
+//get one project
+app.get('/:id',(req,res) => {
+    const project = projects.find((project) => project.id == req.params.id);
+    if (!project) res.status(404).send({msg: 'Project not found'});
+    res.send(project);
+})
+
 
 
 
