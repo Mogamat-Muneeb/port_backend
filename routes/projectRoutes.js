@@ -1,7 +1,6 @@
 const express = require('express');
-const req = require('express/lib/request');
-const res = require('express/lib/response');
-const app = express.Router()
+const app = express.Router();
+const fixArrayId = require('../helpers')
 
 let projects = [
     {"title":"E-Commerce Website",
@@ -80,31 +79,26 @@ res.send(newProject);
 
 //update a project
 app.put('/:id',(req,res) =>{
-    const project = projects.find((project) => project.id == req.params.id);
+    let project = projects.find((project) => project.id == req.params.id);
     if (!project) res.status(404).send({msg: 'projects not found'});
+    let (title,img, github,netlify,lang) = req.body;
 
-    updateProject = (project) =>{
-        project.title = req.body.title;
-        project.img = req.body.img;
-        project.github = req.body.github;
-        project.netlify = req.body.netlify;
-        project.lang = req.body.title;
-        res.send(project);
-    }
-    return updateProject(project);
+    
+        if (title) project. title = title;
+        if (img) project.img = img;
+        if (github) project.github = github;
+        if (netlify) project.netlify = netlify;
+        if (lang) project.lang = lang;
+        res.send(project);  
 });
-
-        
-
-
-
-
-
-
 
 
 //delete
-app.delete('/:id',(req,res) => { })
+app.delete('/:id',(req,res) => { 
+ projects = projects.filter((project) => project.id != req.params.id);
+ fixArrayId(projects);
+ res.send({msg: 'item removed'});
+});
 
 
 
