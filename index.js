@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 
 app.use('/projects',projectRoutes);
 app.use('/testimonials',testimonialRoutes);
-app.use('/contacts',contactRoutes);
+app.use('/contact',contactRoutes);
 // app.listen(5000)
 
 
