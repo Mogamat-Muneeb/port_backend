@@ -4,7 +4,7 @@ const nodemailer = require('nodemailer');
 const app = express.Router();
 
 app.post('/', (req, res) => {
-    let {name,email,subject,message} = req.body;
+    let {name,email,contact,message} = req.body;
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
@@ -18,8 +18,8 @@ app.post('/', (req, res) => {
         to: 'davimuneeb785@gmail.com',
         subject:`new contact from portfolio`,
         text:`${name} has contacted you
-        ${subject}  contact them back 
-         ${message}`,
+            contact them back on   ${contact} 
+              ${message}`,
       };
       
       transporter.sendMail(mailOptions,(error, info) => {
