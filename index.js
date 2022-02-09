@@ -1,6 +1,7 @@
 const express = require('express')
 const projectRoutes = require('./routes/projectRoutes');
 const testimonialRoutes = require('./routes/testimonialRoutes');
+const contactRoutes = require('./routes/contactRoutes');
 const app = express()
 
 app.use(express.json());
@@ -11,7 +12,7 @@ app.get('/', (req, res) => {
 
 app.use('/projects',projectRoutes);
 app.use('/testimonials',testimonialRoutes);
-
+app.use('/contacts',contactRoutes);
 // app.listen(5000)
 
 
