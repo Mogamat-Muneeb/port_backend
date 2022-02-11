@@ -29,7 +29,7 @@ app.post('/', (req, res) => {
       
       transporter.sendMail(mailOptions,(error, info) => {
         if (error) {
-            res.status(400).send({msg: 'email not sent'});
+            res.status(400).send({msg: 'email not sent ' + error});
         } else {
             res.send({msg: 'Your email has been submitted successfully'});
         }
