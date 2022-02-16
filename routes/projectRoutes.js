@@ -9,7 +9,7 @@ let projects = [
     "github":"https://github.com/Mogamat-Muneeb/online-store",
     "netlify":"https://dinghystore.netlify.app",
     "lang":"HTML/CSS",
-    "desc":"An online store that sells one product from the Landyatchs skateboard range."
+    "desc":"An online store that sells one product."
     },
     {"title":"JS Calculator",
     "id":2,
@@ -48,7 +48,7 @@ let projects = [
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
      "lang":"JS",
-     "desc":"A converter that converts temperature from celsius to fahrenheit and vice versa. "
+     "desc":"Converts temperature from celsius to fahrenheit and vice versa. "
     }
     ];
         
