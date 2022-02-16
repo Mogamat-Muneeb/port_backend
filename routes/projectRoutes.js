@@ -28,7 +28,7 @@ let projects = [
     "lang":"VUE.JS",
     "desc":"A mini game to test your eye coordination. "
     },
-    {"title":"Davids Driving School-Brochure Site",
+    {"title":"Davids Driving School",
     "id":4,"img":"https://i.postimg.cc/J01kF1ZZ/Screenshot-10.png",
     "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
     "netlify":"https://davids-drivng-school.netlify.app",
