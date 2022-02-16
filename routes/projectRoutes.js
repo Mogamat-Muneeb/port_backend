@@ -48,7 +48,7 @@ let projects = [
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
      "lang":"JS",
-     "desc":"Converts temperature from celsius to fahrenheit and vice versa. "
+     "desc":"Converts temperature into different units. "
     }
     ];
         
