@@ -9,7 +9,7 @@ let projects = [
     "github":"https://github.com/Mogamat-Muneeb/online-store",
     "netlify":"https://dinghystore.netlify.app",
     "lang":"HTML/CSS",
-    "desc":"A commerce website that sells one product from the Landyatchs skateboard range."
+    "desc":"An online store that sells one product from the Landyatchs skateboard range."
     },
     {"title":"JS Calculator",
     "id":2,
@@ -17,7 +17,7 @@ let projects = [
     "github":"https://github.com/Mogamat-Muneeb/calculator_2",
     "netlify":"https://jscalculator2.netlify.app",
     "lang":"JS",
-    "desc":"A calculator made from javascript to form  complete functionality , with the normal functions a calculator has."
+    "desc":"A basic calculator with full functionality."
     },
   
     {"title":"Reaction-Timer",
@@ -26,14 +26,14 @@ let projects = [
     "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
     "netlify":"https://muneebs-reacting-timer.netlify.app/",
     "lang":"VUE.JS",
-    "desc":"A mini game to test your eye coordination. "
+    "desc":"Mini game to test eye coordination. "
     },
     {"title":"Davids Driving School",
     "id":4,"img":"https://i.postimg.cc/J01kF1ZZ/Screenshot-10.png",
     "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
     "netlify":"https://davids-drivng-school.netlify.app",
     "lang":"HTML/CSS",
-    "desc":"A brochure site made to advertise a drving school company."
+    "desc":"A brochure site that advertises a driving school."
     },
      {"title":"P.O.S-Project",
      "id":5,
@@ -41,14 +41,14 @@ let projects = [
      "github":"https://github.com/Mogamat-Muneeb/POS_Project",
      "netlify":"https://neebspos.netlify.app/",
      "lang":"JS",
-     "desc":"A typical online store to sell products."
+     "desc":"A typical online store."
     },
      {"title":"Temp-Convertor",
      "id":6,"img":"https://i.postimg.cc/V5yMyHh4/Screenshot-17.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
      "lang":"JS",
-     "desc":"A calculator or converter that can convert any temperature from celsius to fahrenheit and vice versa. "
+     "desc":"A converter that converts temperature from celsius to fahrenheit and vice versa. "
     }
     ];
         
