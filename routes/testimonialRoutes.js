@@ -18,7 +18,7 @@ let testimonials = [
     "relation":"Colleague"
     },
 
-    {"title":" Ndomizanele Moni",
+    {"title":" Ntdomizanele Moni",
     "id":3,
     "img":"https://i.postimg.cc/TwbcD1Yj/Zanele3-10-11zon.jpg",
     "email":"zanelemoni4@gmail.com",
@@ -49,7 +49,7 @@ let testimonials = [
     },
     {"title":" Aaliyah Jardien",
     "id":7,
-    "img":"https://i.postimg.cc/jdn1FdDj/aaliyah-5.jpg",
+    "img":"https://i.postimg.cc/D0yfp2Yc/aaliyah-6.jpg",
     "email":"aaliyahjar13@gmail.com",
     "quote":"Along with his driven and positive energy, Muneeb always brings his bright ideas to the table. He's a great team player & is delightful to work with.",
     "relation":"Colleague"
