@@ -43,7 +43,7 @@ let testimonials = [
     },
     {"title":"  Alex Sexwale",
     "id":6,
-    "img":"https://i.postimg.cc/vB4NSG8D/alex-5-11zon.jpg",
+    "img":"https://i.postimg.cc/Y0qPDxMK/Alex.png",
     "email":"alexsexwale@gmail.com",
     "quote":"Muneeeb is vigilant with his work. He continues to find ways to provide quality work and keep improving on his general knowledge.","relation":"Lecturer"
     },
