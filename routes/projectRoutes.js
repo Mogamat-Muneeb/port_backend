@@ -5,7 +5,7 @@ const fixArrayId = require('../helpers')
 let projects = [
     {"title":"E-Commerce Website",
     "id":1,
-    "img":"https://i.postimg.cc/8zSHpkLD/ecom1-3-11zon.png",
+    "img":"https://i.postimg.cc/N086frVf/Screenshot-41.png",
     "github":"https://github.com/Mogamat-Muneeb/online-store",
     "netlify":"https://dinghystore.netlify.app",
     "lang":"HTML/CSS",
@@ -29,7 +29,7 @@ let projects = [
     "desc":"Mini game to test eye coordination. "
     },
     {"title":"Davids Driving School",
-    "id":4,"img":"https://i.postimg.cc/J01kF1ZZ/Screenshot-10.png",
+    "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png",
     "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
     "netlify":"https://davids-drivng-school.netlify.app",
     "lang":"HTML/CSS",
@@ -44,7 +44,7 @@ let projects = [
     //  "desc":"A typical online store."
     // },
      {"title":"Temp-Convertor",
-     "id":6,"img":"https://i.postimg.cc/V5yMyHh4/Screenshot-17.png",
+     "id":6,"img":"https://i.postimg.cc/rskDTYPN/Screenshot-45.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
      "lang":"JS",
