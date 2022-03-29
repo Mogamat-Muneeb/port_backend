@@ -35,14 +35,14 @@ let projects = [
     "lang":"HTML/CSS",
     "desc":"A brochure site that advertises a driving school."
     },
-     {"title":"P.O.S-Project",
-     "id":5,
-     "img":"https://i.postimg.cc/mk9zSyr9/Screenshot-16.png",
-     "github":"https://github.com/Mogamat-Muneeb/POS_Project",
-     "netlify":"https://neebspos.netlify.app/",
-     "lang":"JS",
-     "desc":"A typical online store."
-    },
+    //  {"title":"P.O.S-Project",
+    //  "id":5,
+    //  "img":"https://i.postimg.cc/mk9zSyr9/Screenshot-16.png",
+    //  "github":"https://github.com/Mogamat-Muneeb/POS_Project",
+    //  "netlify":"https://neebspos.netlify.app/",
+    //  "lang":"JS",
+    //  "desc":"A typical online store."
+    // },
      {"title":"Temp-Convertor",
      "id":6,"img":"https://i.postimg.cc/V5yMyHh4/Screenshot-17.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
