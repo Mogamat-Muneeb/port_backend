@@ -7,7 +7,7 @@ let testimonials = [
      "id":1,
      "img":"https://i.postimg.cc/FRkTVGGL/Breda-Y1-6-11zon.jpg",
      "email":"mugammadbreda1999@gmail.com",
-     "quote":"This man is hardworking as well as efficient with his time.His a great guy to work with.",
+     "quote":"This man is hardworking as well as efficient with his time. His a great guy to work with.",
         "relation":"Colleague"
     },
     {"title":" Yaseen Davids",
@@ -18,11 +18,11 @@ let testimonials = [
     "relation":"Colleague"
     },
 
-    {"title":" Ntdomizanele Moni",
+    {"title":"Haniah Jardien",
     "id":3,
-    "img":"https://i.postimg.cc/TwbcD1Yj/Zanele3-10-11zon.jpg",
+    "img":"https://i.postimg.cc/zGtBwZ9H/Haniah2-1.jpg",
     "email":"zanelemoni4@gmail.com",
-    "quote":"Muneeb is a good person,he is always willing to help. He is always focused on the task at hand and is not easily distracted,HE LOVES HIS WORK.",
+    "quote":"Muneeb is always willing to help. Always focused on the task at hand and is not easily distracted,HE LOVES HIS WORK.",
     "relation":"Colleague"
     },
 
