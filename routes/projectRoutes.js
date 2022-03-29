@@ -20,14 +20,14 @@ let projects = [
     "desc":"A basic calculator with full functionality."
     },
   
-    {"title":"Reaction-Timer",
-    "id":4,
-    "img":"https://i.postimg.cc/JhDc345h/Screenshot-11.png",
-    "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
-    "netlify":"https://muneebs-reacting-timer.netlify.app/",
-    "lang":"VUE.JS",
-    "desc":"Mini game to test eye coordination. "
-    },
+    // {"title":"Reaction-Timer",
+    // "id":4,
+    // "img":"https://i.postimg.cc/JhDc345h/Screenshot-11.png",
+    // "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
+    // "netlify":"https://muneebs-reacting-timer.netlify.app/",
+    // "lang":"VUE.JS",
+    // "desc":"Mini game to test eye coordination. "
+    // },
     {"title":"Davids Driving School",
     "id":4,"img":"https://i.postimg.cc/J01kF1ZZ/Screenshot-10.png",
     "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
@@ -35,14 +35,14 @@ let projects = [
     "lang":"HTML/CSS",
     "desc":"A brochure site that advertises a driving school."
     },
-     {"title":"P.O.S-Project",
-     "id":5,
-     "img":"https://i.postimg.cc/mk9zSyr9/Screenshot-16.png",
-     "github":"https://github.com/Mogamat-Muneeb/POS_Project",
-     "netlify":"https://neebspos.netlify.app/",
-     "lang":"JS",
-     "desc":"A typical online store."
-    },
+    //  {"title":"P.O.S-Project",
+    //  "id":5,
+    //  "img":"https://i.postimg.cc/mk9zSyr9/Screenshot-16.png",
+    //  "github":"https://github.com/Mogamat-Muneeb/POS_Project",
+    //  "netlify":"https://neebspos.netlify.app/",
+    //  "lang":"JS",
+    //  "desc":"A typical online store."
+    // },
      {"title":"Temp-Convertor",
      "id":6,"img":"https://i.postimg.cc/V5yMyHh4/Screenshot-17.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
