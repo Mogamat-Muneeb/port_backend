@@ -18,9 +18,9 @@ let testimonials = [
     "relation":"Colleague"
     },
 
-    {"title":"Haniah Jardien",
+    {"title":" Ntdomizanele Moni",
     "id":3,
-    "img":"https://i.postimg.cc/zGtBwZ9H/Haniah2-1.jpg",
+    "img":"https://i.postimg.cc/TwbcD1Yj/Zanele3-10-11zon.jpg",
     "email":"zanelemoni4@gmail.com",
     "quote":"Muneeb is always willing to help. Always focused on the task at hand and is not easily distracted,HE LOVES HIS WORK.",
     "relation":"Colleague"
