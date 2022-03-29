@@ -13,7 +13,7 @@ let projects = [
     },
     {"title":"JS Calculator",
     "id":2,
-    "img":"https://i.postimg.cc/pXKRzZ85/Screenshot-24.png",
+    "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
     "github":"https://github.com/Mogamat-Muneeb/calculator_2",
     "netlify":"https://jscalculator2.netlify.app",
     "lang":"JS",
@@ -22,7 +22,7 @@ let projects = [
   
     {"title":"Reaction-Timer",
     "id":4,
-    "img":"https://i.postimg.cc/JhDc345h/Screenshot-11.png",
+    "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
     "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
     "netlify":"https://muneebs-reacting-timer.netlify.app/",
     "lang":"VUE.JS",
