@@ -49,7 +49,15 @@ let projects = [
      "netlify":"https://calcutemp.netlify.app/",
      "lang":"JS",
      "desc":"Converts temperature into different units. "
-    }
+    },
+    {"title":"BarberShop Booking Website",
+    "id":4,
+    "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
+    "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
+    "netlify":"https://the-urbanshave-barbershop.web.app/",
+    "lang":"VUE.JS & Node.JS",
+    "desc":"A brochure site with booking section. "
+    },
     ];
         
 
