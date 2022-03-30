@@ -43,13 +43,13 @@ let projects = [
     //  "lang":"JS",
     //  "desc":"A typical online store."
     // },
-     {"title":"Temp-Convertor",
-     "id":6,"img":"https://i.postimg.cc/rskDTYPN/Screenshot-45.png",
-     "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
-     "netlify":"https://calcutemp.netlify.app/",
-     "lang":"JS",
-     "desc":"Converts temperature into different units. "
-    },
+    //  {"title":"Temp-Convertor",
+    //  "id":6,"img":"https://i.postimg.cc/rskDTYPN/Screenshot-45.png",
+    //  "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
+    //  "netlify":"https://calcutemp.netlify.app/",
+    //  "lang":"JS",
+    //  "desc":"Converts temperature into different units. "
+    // },
     {"title":"Booking Website",
     "id":4,
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
@@ -57,6 +57,14 @@ let projects = [
     "netlify":"https://the-urbanshave-barbershop.web.app/",
     "lang":"VUE.JS & Node.JS",
     "desc":"A brochure site with booking section. "
+    },
+    {"title":"P.O.S",
+    "id":4,
+    "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
+    "github":"",
+    "netlify":"",
+    "lang":"VUE.JS & Node.JS",
+    "desc":"Simple P.O.S. "
     },
     ];
         
