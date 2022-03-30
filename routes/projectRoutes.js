@@ -29,7 +29,7 @@ let projects = [
     "desc":"Mini game to test eye coordination. "
     },
     // {"title":"Davids Driving School",
-    // "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png",
+    // "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png", 
     // "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
     // "netlify":"https://davids-drivng-school.netlify.app",
     // "lang":"HTML/CSS",
@@ -43,19 +43,19 @@ let projects = [
     //  "lang":"JS",
     //  "desc":"A typical online store."
     // },
-    //  {"title":"Temp-Convertor",
-    //  "id":6,"img":"https://i.postimg.cc/rskDTYPN/Screenshot-45.png",
-    //  "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
-    //  "netlify":"https://calcutemp.netlify.app/",
-    //  "lang":"JS",
-    //  "desc":"Converts temperature into different units. "
-    // },
+     {"title":"Temp-Convertor",
+     "id":6,"img":"https://i.postimg.cc/rskDTYPN/Screenshot-45.png",
+     "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
+     "netlify":"https://calcutemp.netlify.app/",
+     "lang":"JS",
+     "desc":"Converts temperature into different units. "
+    },
     {"title":"Booking Website",
     "id":4,
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "netlify":"https://the-urbanshave-barbershop.web.app/",
-    "lang":"VUE.JS & Node.JS",
+    "lang":"VUE.JS & NODE.JS",
     "desc":"A brochure site with booking section. "
     },
     {"title":"P.O.S",
@@ -63,7 +63,7 @@ let projects = [
     "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
     "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
     "netlify":"https://surfstore-proj.web.app/",
-    "lang":"VUE.JS & Node.JS",
+    "lang":"VUE.JS & NODE.JS",
     "desc":"Simple P.O.S. "
     },
     ];
