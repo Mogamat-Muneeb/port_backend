@@ -58,7 +58,7 @@ let projects = [
     "lang":"VUE.JS/NODE.JS",
     "desc":"A brochure site with booking section. "
     },
-    {"title":"P.O.S",
+    {"title":"Point Of Sale",
     "id":4,
     "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
     "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
