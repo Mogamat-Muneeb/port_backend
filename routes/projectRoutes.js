@@ -16,7 +16,7 @@ let projects = [
     "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
     "github":"https://github.com/Mogamat-Muneeb/calculator_2",
     "netlify":"https://jscalculator2.netlify.app",
-    "lang":"JS",
+    "lang":"JS/HTML/CSS",
     "desc":"A basic calculator with full functionality."
     },
   
@@ -47,7 +47,7 @@ let projects = [
      "id":6,"img":"https://i.postimg.cc/rskDTYPN/Screenshot-45.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
-     "lang":"JS",
+     "lang":"JS/HTML/CSS",
      "desc":"Converts temperature into different units. "
     },
     {"title":"Booking Website",
@@ -55,7 +55,7 @@ let projects = [
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "netlify":"https://the-urbanshave-barbershop.web.app/",
-    "lang":"VUE.JS & NODE.JS",
+    "lang":"VUE.JS/NODE.JS",
     "desc":"A brochure site with booking section. "
     },
     {"title":"P.O.S",
@@ -63,7 +63,7 @@ let projects = [
     "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
     "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
     "netlify":"https://surfstore-proj.web.app/",
-    "lang":"VUE.JS & NODE.JS",
+    "lang":"VUE.JS/NODE.JS",
     "desc":"Simple P.O.S. "
     },
     ];
