@@ -28,13 +28,13 @@ let projects = [
     "lang":"VUE.JS",
     "desc":"Mini game to test eye coordination. "
     },
-    {"title":"Davids Driving School",
-    "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png",
-    "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
-    "netlify":"https://davids-drivng-school.netlify.app",
-    "lang":"HTML/CSS",
-    "desc":"A brochure site that advertises a driving school."
-    },
+    // {"title":"Davids Driving School",
+    // "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png",
+    // "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
+    // "netlify":"https://davids-drivng-school.netlify.app",
+    // "lang":"HTML/CSS",
+    // "desc":"A brochure site that advertises a driving school."
+    // },
     //  {"title":"P.O.S-Project",
     //  "id":5,
     //  "img":"https://i.postimg.cc/mk9zSyr9/Screenshot-16.png",
