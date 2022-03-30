@@ -61,8 +61,8 @@ let projects = [
     {"title":"P.O.S",
     "id":4,
     "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
-    "github":"",
-    "netlify":"",
+    "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
+    "netlify":"https://surfstore-proj.web.app/",
     "lang":"VUE.JS & Node.JS",
     "desc":"Simple P.O.S. "
     },
