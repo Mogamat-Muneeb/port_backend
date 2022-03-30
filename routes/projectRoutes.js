@@ -20,14 +20,14 @@ let projects = [
     "desc":"A basic calculator with full functionality."
     },
   
-    {"title":"Reaction-Timer",
-    "id":4,
-    "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
-    "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
-    "netlify":"https://muneebs-reacting-timer.netlify.app/",
-    "lang":"VUE.JS",
-    "desc":"Mini game to test eye coordination. "
-    },
+    // {"title":"Reaction-Timer",
+    // "id":4,
+    // "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
+    // "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
+    // "netlify":"https://muneebs-reacting-timer.netlify.app/",
+    // "lang":"VUE.JS",
+    // "desc":"Mini game to test eye coordination. "
+    // },
     // {"title":"Davids Driving School",
     // "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png",
     // "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
