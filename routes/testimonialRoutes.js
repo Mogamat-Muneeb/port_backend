@@ -56,7 +56,7 @@ let testimonials = [
     },
     {"title":"Haniah Jardien",
     "id":8,
-    "img":"https://i.postimg.cc/PJS7m8zQ/h2.jpg",
+    "img":"https://i.postimg.cc/YSYkHbMG/h3.jpg",
     "email":"aaliyahjar13@gmail.com",
     "quote":"Along with his driven and positive energy, Muneeb always brings his bright ideas to the table. He's a great team player & is delightful to work with.",
     "relation":"Colleague"
