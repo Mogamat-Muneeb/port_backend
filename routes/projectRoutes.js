@@ -64,7 +64,7 @@ let projects = [
     "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
     "netlify":"https://surfstore-proj.web.app/",
     "lang":"VUE.JS/NODE.JS",
-    "desc":"Simple P.O.S. "
+    "desc":"Simple Point Of Sale. "
     },
     ];
         
