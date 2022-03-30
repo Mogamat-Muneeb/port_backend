@@ -3,14 +3,14 @@ const app = express.Router();
 const fixArrayId = require('../helpers')
 
 let projects = [
-    {"title":"E-Commerce Website",
-    "id":1,
-    "img":"https://i.postimg.cc/N086frVf/Screenshot-41.png",
-    "github":"https://github.com/Mogamat-Muneeb/online-store",
-    "netlify":"https://dinghystore.netlify.app",
-    "lang":"HTML/CSS",
-    "desc":"An online store that sells one product."
-    },
+    // {"title":"E-Commerce Website",
+    // "id":1,
+    // "img":"https://i.postimg.cc/N086frVf/Screenshot-41.png",
+    // "github":"https://github.com/Mogamat-Muneeb/online-store",
+    // "netlify":"https://dinghystore.netlify.app",
+    // "lang":"HTML/CSS",
+    // "desc":"An online store that sells one product."
+    // },
     {"title":"JS Calculator",
     "id":2,
     "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
