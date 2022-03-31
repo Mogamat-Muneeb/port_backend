@@ -19,7 +19,6 @@ let projects = [
     "lang":"JS/HTML/CSS",
     "desc":"A basic calculator with full functionality."
     },
-  
     {"title":"Reaction Game",
     "id":4,
     "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
@@ -48,7 +47,7 @@ let projects = [
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
      "lang":"JS/HTML/CSS",
-     "desc":"Converts temperature into different units. "
+     "desc":"Converts from Celsius to Fahrenheit. "
     },
     {"title":"Booking Website",
     "id":4,
