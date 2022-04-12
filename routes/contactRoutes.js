@@ -31,7 +31,7 @@ app.post('/', (req, res) => {
         if (error) {
             res.status(400).send({msg: 'email not sent ' + error});
         } else {
-            res.send({msg: 'Your email has been submitted successfully'});
+            res.send({msg: 'Your email has been submitted successfully.'});
         }
       });
 })
