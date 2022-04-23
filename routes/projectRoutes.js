@@ -54,7 +54,7 @@ let projects = [
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "netlify":"https://the-urbanshave-barbershop.web.app/",
-    "lang":"VUE.JS/NODE.JS",
+    "lang":"VUE.JS/NODE.JS/MONGODB",
     "desc":"A brochure site with booking section. "
     },
     {"title":"Point Of Sale",
@@ -62,7 +62,7 @@ let projects = [
     "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
     "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
     "netlify":"https://surfstore-proj.web.app/",
-    "lang":"VUE.JS/NODE.JS",
+    "lang":"VUE.JS/NODE.JS/MONGODB",
     "desc":"Simple Point Of Sale. "
     },
     ];
