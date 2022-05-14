@@ -65,6 +65,14 @@ let projects = [
     "lang":"VUE.JS/NODE.JS/MONGODB",
     "desc":"Simple Point Of Sale. "
     },
+    {"title":"The Blog",
+    "id":4,
+    "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
+    "github":"https://github.com/Mullins69/blogplatform_backend",
+    "netlify":"https://the-blog3.web.app/#/",
+    "lang":"VUE.JS/NODE.JS/MONGODB",
+    "desc":"A Blog Platform. Group Project. "
+    },
     ];
         
 
