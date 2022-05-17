@@ -71,7 +71,7 @@ let projects = [
     "github":"https://github.com/Mullins69/blogplatform_backend",
     "netlify":"https://the-blog3.web.app/#/",
     "lang":"VUE.JS/NODE.JS/MONGODB",
-    "desc":"A Blog Platform. Group Project. "
+    "desc":"A Blog Platform. A Group Project. "
     },
     ];
         
