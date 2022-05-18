@@ -19,14 +19,14 @@ let projects = [
     "lang":"JS/HTML/CSS",
     "desc":"A basic calculator with full functionality."
     },
-    {"title":"Reaction Game",
-    "id":4,
-    "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
-    "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
-    "netlify":"https://muneebs-reacting-timer.netlify.app/",
-    "lang":"VUE.JS",
-    "desc":"Mini game to test eye coordination. "
-    },
+    // {"title":"Reaction Game",
+    // "id":4,
+    // "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
+    // "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
+    // "netlify":"https://muneebs-reacting-timer.netlify.app/",
+    // "lang":"VUE.JS",
+    // "desc":"Mini game to test eye coordination. "
+    // },
     // {"title":"Davids Driving School",
     // "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png", 
     // "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
@@ -70,7 +70,7 @@ let projects = [
     "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
     "github":"https://github.com/Mullins69/blogplatform_backend",
     "netlify":"https://the-blog3.web.app/#/",
-    "lang":"VUE.JS/NODE.JS/MONGODB",
+    "lang":"VUE.JS/NODE.JS/MONGODB/BOOTSTRAP",
     "desc":"A Blog Platform. A Group Project. "
     },
     ];
