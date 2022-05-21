@@ -57,14 +57,14 @@ let projects = [
     "lang":"VUE.JS/NODE.JS/MONGODB",
     "desc":"A brochure site with booking section. "
     },
-    {"title":"Point Of Sale",
-    "id":4,
-    "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
-    "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
-    "netlify":"https://surfstore-proj.web.app/",
-    "lang":"VUE.JS/NODE.JS/MONGODB",
-    "desc":"Simple Point Of Sale. "
-    },
+    // {"title":"Point Of Sale",
+    // "id":4,
+    // "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
+    // "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
+    // "netlify":"https://surfstore-proj.web.app/",
+    // "lang":"VUE.JS/NODE.JS/MONGODB",
+    // "desc":"Simple Point Of Sale. "
+    // },
     {"title":"The Blog",
     "id":4,
     "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
