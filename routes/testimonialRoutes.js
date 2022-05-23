@@ -30,15 +30,15 @@ let testimonials = [
     "id":4,
     "img":"https://i.postimg.cc/8zkTLjVH/Na-aim3-7-11zon.jpg",
     "email":"fredericksnaam13@gmail.com",
-    "quote":"Muneeb is a very accountable guy when it comes to being a team player he is always flexible in his work he is ethical and loyal.",
+    "quote":"Muneeb is a very accountable guy when it comes to being a team player he is always flexible in his work, his ethical and loyal.",
     "relation":"Colleague"
     },
 
     {"title":" Simamkele January",
     "id":5,
     "img":"https://i.postimg.cc/dv7gPntj/Simamkele2-8-11zon.jpg",
-    "email":"simamkelejanjuary@gamil.com",
-    "quote":"Besides bieng an outstanding classmate, Muneeb is a free spirited young man who is always ready to help out where he is needed.",
+    "email":"simamkelejanjuary@gmail.com",
+    "quote":"Besides being an outstanding classmate, Muneeb is a free spirited young man who is always ready to help out where he is needed.",
     "relation":"Colleague"
     },
     {"title":"  Alex Sexwale",
