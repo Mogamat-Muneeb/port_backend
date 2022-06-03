@@ -21,15 +21,15 @@ app.post('/', (req, res) => {
       const mailOptions = {
         from: email,
         to: 'davimuneeb785@gmail.com',
-        subject:`new contact from portfolio`,
-        text:`${name} has contacted you contact them back on ${contact} ${message}`,
+        subject:`New contact from my portfolio`,
+        text:`${name} has contacted you, contact them back on ${contact} ${message}`,
       };
       
       transporter.sendMail(mailOptions,(error, info) => {
         if (error) {
-            res.status(400).send({msg: 'email not sent ' + error});
+            res.status(400).send({msg: 'Your details have not been submitted successfully.' + error});
         } else {
-            res.send({msg: 'Your email has been submitted successfully.'});
+            res.send({msg: 'Your details have been submitted successfully.'});
         }
       });
 })
