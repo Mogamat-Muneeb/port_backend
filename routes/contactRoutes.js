@@ -22,7 +22,7 @@ app.post('/', (req, res) => {
         from: email,
         to: 'davimuneeb785@gmail.com',
         subject:`New contact from my portfolio`,
-        text:`${name} has contacted you, contact them back on ${contact} ${message}`,
+        text:`${name} has contacted you, contact them back on ${contact} , ${message}`,
       };
       
       transporter.sendMail(mailOptions,(error, info) => {
