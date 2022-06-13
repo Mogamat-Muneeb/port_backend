@@ -29,7 +29,7 @@ let testimonials = [
     {"title":"  Na-aim Fredericks",
     "id":4,
     "img":"https://i.postimg.cc/8zkTLjVH/Na-aim3-7-11zon.jpg",
-    "email":"fredericksnaam13@gmail.com",
+    "email":"fredericksnaaim13@gmail.com",
     "quote":"Muneeb is a very accountable guy when it comes to being a team player he is always flexible in his work, his ethical and loyal.",
     "relation":"Colleague"
     },
