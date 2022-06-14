@@ -40,7 +40,6 @@ let testimonials = [
     "quote":"Muneeb is a very accountable guy when it comes to being a team player he is always flexible in his work, his ethical and loyal.",
     "relation":"Colleague"
     },
-
     // {"title":" Simamkele January",
     // "id":5,
     // "img":"https://i.postimg.cc/dv7gPntj/Simamkele2-8-11zon.jpg",
@@ -62,7 +61,6 @@ let testimonials = [
     "quote":"This guy is ALWAYS willing to help no matter what.",
     "relation":"Colleague"
     }
-
     ];
         
 
