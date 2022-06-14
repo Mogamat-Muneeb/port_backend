@@ -3,7 +3,14 @@ const app = express.Router();
 const fixArrayId = require('../helpers')
 
 let testimonials = [
-    {"title":" Mogamat Breda",
+    {"title":"  Alex Sexwale",
+    "id":6,
+    "img":"https://i.postimg.cc/vB4NSG8D/alex-5-11zon.jpg",
+    "email":"alexsexwale@gmail.com",
+    "quote":"Muneeb is vigilant with his work. He continues to find ways to provide quality work and keep improving on his general knowledge.",
+    "relation":"Lecturer"
+    },
+    {"title":" Mugammad Breda",
      "id":1,
      "img":"https://i.postimg.cc/FRkTVGGL/Breda-Y1-6-11zon.jpg",
      "email":"mugammadbreda1999@gmail.com",
@@ -41,13 +48,6 @@ let testimonials = [
     // "quote":"Besides being an outstanding classmate, Muneeb is a free spirited young man who is always ready to help out where he is needed.",
     // "relation":"Colleague"
     // },
-    {"title":"  Alex Sexwale",
-    "id":6,
-    "img":"https://i.postimg.cc/vB4NSG8D/alex-5-11zon.jpg",
-    "email":"alexsexwale@gmail.com",
-    "quote":"Muneeb is vigilant with his work. He continues to find ways to provide quality work and keep improving on his general knowledge.",
-    "relation":"Lecturer"
-    },
     {"title":" Aaliyah Jardien",
     "id":7,
     "img":"https://i.postimg.cc/D0yfp2Yc/aaliyah-6.jpg",
