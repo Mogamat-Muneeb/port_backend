@@ -18,7 +18,7 @@ let testimonials = [
     "relation":"Colleague"
     },
 
-    {"title":" Ntdomizanele Moni",
+    {"title":" Ntombizanele Moni",
     "id":3,
     "img":"https://i.postimg.cc/TwbcD1Yj/Zanele3-10-11zon.jpg",
     "email":"zanelemoni4@gmail.com",
