@@ -43,7 +43,7 @@ let projects = [
     //  "desc":"A typical online store."
     // },
      {"title":"Temp-Convertor",
-     "id":6,"img":"https://i.postimg.cc/rskDTYPN/Screenshot-45.png",
+     "id":6,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
      "lang":"JS/HTML/CSS",
