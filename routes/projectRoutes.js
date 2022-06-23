@@ -73,6 +73,14 @@ let projects = [
     "lang":"VUE.JS/NODE.JS/MONGODB/BOOTSTRAP",
     "desc":"A Blog Platform. A Group Project. "
     },
+    {"title":"Mobile App Design",
+    "id":5,
+    "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
+    // "github":"https://github.com/Mullins69/blogplatform_backend",
+    "netlify":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
+    "lang":"Figma",
+    "desc":"Basic mobile app design."
+    },
     ];
         
 

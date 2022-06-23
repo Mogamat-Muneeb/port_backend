@@ -67,7 +67,7 @@ let testimonials = [
 app.get('/',(req,res) => {
     res.send(testimonials);
 });
-
+ 
 
 //get one testimonial
 app.get('/:id',(req,res) => {
