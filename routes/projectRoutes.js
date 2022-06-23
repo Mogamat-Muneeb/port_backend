@@ -76,7 +76,7 @@ let projects = [
     {"title":"Mobile App Design",
     "id":5,
     "img":"https://i.postimg.cc/fRgxrdPM/Screenshot-41.png",
-    // "github":"https://github.com/Mullins69/blogplatform_backend",
+    "github":"https://github.com/Mogamat-Muneeb/TASKIFY",
     "netlify":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
     "lang":"FIGMA",
     "desc":"Basic mobile app design."
