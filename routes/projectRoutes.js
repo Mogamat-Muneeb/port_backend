@@ -31,7 +31,7 @@ let projects = [
     "id":2,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png", 
     "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
     "netlify":"https://davids-drivng-school.netlify.app",
-    "lang":"HTML/CSS",
+    "lang":"HTML CSS",
     "desc":"A brochure site that advertises a driving school."
     },
     //  {"title":"P.O.S-Project",
@@ -77,7 +77,7 @@ let projects = [
     "id":6,
     "img":"https://i.postimg.cc/fRgxrdPM/Screenshot-41.png",
     "github":"https://github.com/Mogamat-Muneeb/TASKIFY",
-    "netlify":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
+    "link":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
     "lang":"FIGMA",
     "desc":"Basic mobile app design."
     },
