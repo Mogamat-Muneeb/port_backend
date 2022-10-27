@@ -24,7 +24,7 @@ let projects = [
     // "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
     // "github":"https://github.com/Mogamat-Muneeb/reaction-time-vue-",
     // "link":"https://muneebs-reacting-timer.link.app/",
-    // "lang":"VUE.JS",
+    // "lang":"Vue.JS",
     // "desc":"Mini game to test eye coordination. "
     // },
     {"title":"Davids Driving School",
@@ -42,7 +42,7 @@ let projects = [
     //  "lang":"JS",
     //  "desc":"A typical online store."
     // },
-     {"title":"Temp-Convertor",
+     {"title":"Temp Convertor",
      "id":3,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "link":"https://calcutemp.link.app/",
@@ -54,7 +54,7 @@ let projects = [
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "link":"https://the-urbanshave-barbershop.web.app/",
-    "lang":"VUE.JS NODE.JS MONGODB",
+    "lang":"Vue.JS Node.JS MongoDB",
     "desc":"A brochure site with booking section. "
     },
     // {"title":"Point Of Sale",
@@ -62,7 +62,7 @@ let projects = [
     // "img":"https://i.postimg.cc/j2N5338X/Screenshot-53.png",
     // "github":"https://github.com/Mogamat-Muneeb/surfstore-front",
     // "link":"https://surfstore-proj.web.app/",
-    // "lang":"VUE.JS/NODE.JS/MONGODB",
+    // "lang":"Vue.JS/Node.JS/MongoDB",
     // "desc":"Simple Point Of Sale. "
     // },
     {"title":"The Blog",
@@ -70,7 +70,7 @@ let projects = [
     "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
     "github":"https://github.com/Mullins69/blogplatform_backend",
     "link":"https://the-blog3.web.app/#/",
-    "lang":"VUE.JS NODE.JS MONGODB BOOTSTRAP",
+    "lang":"Vue.JS Node.JS MongoDB Bootstrap",
     "desc":"A Blog Platform. A Group Project. "
     },
     {"title":"Mobile App Design",
@@ -78,7 +78,7 @@ let projects = [
     "img":"https://i.postimg.cc/fRgxrdPM/Screenshot-41.png",
     "github":"https://github.com/Mogamat-Muneeb/TASKIFY",
     "link":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
-    "lang":"FIGMA",
+    "lang":"Figma",
     "desc":"Basic mobile app design."
     },
     ];
