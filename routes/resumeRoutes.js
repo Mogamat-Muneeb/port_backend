@@ -26,7 +26,7 @@ let resumes = [
     },
     {
     "id":4,
-    "occupation":"High SCool",
+    "occupation":"High School",
     "place":"Voortrekker High School",
     "description":"I started and matriculated at Voortrekker High School in Kenilworth. I was part of the RCL leadership team from Gr.10 to Gr.12 and played First-Team rugby since Gr.10 as a Scrumhalf. As well as being the Deputy Head Boy in Matric.",
     "date":"Jan 2020-present:"
