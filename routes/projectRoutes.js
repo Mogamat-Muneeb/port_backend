@@ -12,11 +12,11 @@ let projects = [
     // "desc":"An online store that sells one product."
     // },
     {"title":"JS Calculator",
-    "id":2,
+    "id":1,
     "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
     "github":"https://github.com/Mogamat-Muneeb/calculator_2",
     "netlify":"https://jscalculator2.netlify.app",
-    "lang":"JS/HTML/CSS",
+    "lang":"JS HTML CSS",
     "desc":"A basic calculator with full functionality."
     },
     // {"title":"Reaction Game",
@@ -27,13 +27,13 @@ let projects = [
     // "lang":"VUE.JS",
     // "desc":"Mini game to test eye coordination. "
     // },
-    // {"title":"Davids Driving School",
-    // "id":4,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png", 
-    // "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
-    // "netlify":"https://davids-drivng-school.netlify.app",
-    // "lang":"HTML/CSS",
-    // "desc":"A brochure site that advertises a driving school."
-    // },
+    {"title":"Davids Driving School",
+    "id":2,"img":"https://i.postimg.cc/pdcR6BTr/Screenshot-42.png", 
+    "github":"https://github.com/Mogamat-Muneeb/davids_drivingschool",
+    "netlify":"https://davids-drivng-school.netlify.app",
+    "lang":"HTML/CSS",
+    "desc":"A brochure site that advertises a driving school."
+    },
     //  {"title":"P.O.S-Project",
     //  "id":5,
     //  "img":"https://i.postimg.cc/mk9zSyr9/Screenshot-16.png",
@@ -43,10 +43,10 @@ let projects = [
     //  "desc":"A typical online store."
     // },
      {"title":"Temp-Convertor",
-     "id":6,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
+     "id":3,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "netlify":"https://calcutemp.netlify.app/",
-     "lang":"JS/HTML/CSS",
+     "lang":"JS HTML CSS",
      "desc":"Converts from Celsius to Fahrenheit. "
     },
     {"title":"Booking Website",
@@ -54,7 +54,7 @@ let projects = [
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "netlify":"https://the-urbanshave-barbershop.web.app/",
-    "lang":"VUE.JS/NODE.JS/MONGODB",
+    "lang":"VUE.JS NODE.JS MONGODB",
     "desc":"A brochure site with booking section. "
     },
     // {"title":"Point Of Sale",
@@ -66,15 +66,15 @@ let projects = [
     // "desc":"Simple Point Of Sale. "
     // },
     {"title":"The Blog",
-    "id":4,
+    "id":5,
     "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
     "github":"https://github.com/Mullins69/blogplatform_backend",
     "netlify":"https://the-blog3.web.app/#/",
-    "lang":"VUE.JS/NODE.JS/MONGODB/BOOTSTRAP",
+    "lang":"VUE.JS NODE.JS MONGODB BOOTSTRAP",
     "desc":"A Blog Platform. A Group Project. "
     },
     {"title":"Mobile App Design",
-    "id":5,
+    "id":6,
     "img":"https://i.postimg.cc/fRgxrdPM/Screenshot-41.png",
     "github":"https://github.com/Mogamat-Muneeb/TASKIFY",
     "netlify":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
