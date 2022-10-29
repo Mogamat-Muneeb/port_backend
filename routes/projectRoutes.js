@@ -3,6 +3,14 @@ const app = express.Router();
 const fixArrayId = require('../helpers')
 
 let projects = [
+    {"title":"The Blog",
+    "id":1,
+    "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
+    "github":"https://github.com/Mullins69/blogplatform_backend",
+    "link":"https://the-blog3.web.app/#/",
+    "lang":"Vue.JS Node.JS MongoDB Bootstrap",
+    "desc":"A Blog Platform. A Group Project. "
+    },
     // {"title":"E-Commerce Website",
     // "id":1,
     // "img":"https://i.postimg.cc/N086frVf/Screenshot-41.png",
@@ -12,7 +20,7 @@ let projects = [
     // "desc":"An online store that sells one product."
     // },
     {"title":"JS Calculator",
-    "id":1,
+    "id":2,
     "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
     "github":"https://github.com/Mogamat-Muneeb/calculator_2",
     "link":"https://jscalculator2.link.app",
@@ -43,14 +51,14 @@ let projects = [
     //  "desc":"A typical online store."
     // },
      {"title":"Temp Convertor",
-     "id":2,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
+     "id":3,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "link":"https://calcutemp.link.app/",
      "lang":"JS HTML CSS",
      "desc":"Converts from Celsius to Fahrenheit. "
     },
     {"title":"Booking Website",
-    "id":3,
+    "id":4,
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "link":"https://the-urbanshave-barbershop.web.app/",
@@ -65,14 +73,6 @@ let projects = [
     // "lang":"Vue.JS/Node.JS/MongoDB",
     // "desc":"Simple Point Of Sale. "
     // },
-    {"title":"The Blog",
-    "id":4,
-    "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
-    "github":"https://github.com/Mullins69/blogplatform_backend",
-    "link":"https://the-blog3.web.app/#/",
-    "lang":"Vue.JS Node.JS MongoDB Bootstrap",
-    "desc":"A Blog Platform. A Group Project. "
-    },
     {"title":"Mobile App Design",
     "id":5,
     "img":"https://i.postimg.cc/fRgxrdPM/Screenshot-41.png",
