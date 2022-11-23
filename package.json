@@ -2,8 +2,7 @@
   "name": "portfolio_backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.cjs",
-  "type":"module",
+  "main": "index.js",
   "engines":{
     "node":"14.x"
   },
