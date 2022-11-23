@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express.Router();
-const fixArrayId = require('../helpers')
+// const fixArrayId = require('../helpers')
 
 let resumes = [
     {
@@ -88,11 +88,11 @@ app.put('/:id',(req,res) =>{
 
 
 //delete
-app.delete('/:id',(req,res) => { 
- resumes = resumes.filter((resume) => resume.id != req.params.id);
- fixArrayId(resumes);
- res.send({msg: 'item removed'});
-});
+// app.delete('/:id',(req,res) => { 
+//  resumes = resumes.filter((resume) => resume.id != req.params.id);
+//  fixArrayId(resumes);
+//  res.send({msg: 'item removed'});
+// });
 
 
 module.exports = app

@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express.Router();
-const fixArrayId = require('../helpers')
+// const fixArrayId = require('../helpers')
 
 let projects = [
     {"title":"The Blog",
@@ -133,11 +133,11 @@ app.put('/:id',(req,res) =>{
 
 
 //delete
-app.delete('/:id',(req,res) => { 
- projects = projects.filter((project) => project.id != req.params.id);
- fixArrayId(projects);
- res.send({msg: 'item removed'});
-});
+// app.delete('/:id',(req,res) => { 
+//  projects = projects.filter((project) => project.id != req.params.id);
+//  fixArrayId(projects);
+//  res.send({msg: 'item removed'});
+// });
 
 
 
