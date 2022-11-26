@@ -23,7 +23,7 @@ let projects = [
     "id":2,
     "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
     "github":"https://github.com/Mogamat-Muneeb/calculator_2",
-    "link":"https://jscalculator2.link.app",
+    "link":"https://jscalculator2.netlify.app",
     "lang":"JS HTML CSS",
     "desc":"A basic calculator with full functionality."
     },
@@ -53,7 +53,7 @@ let projects = [
      {"title":"Temp Convertor",
      "id":3,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
-     "link":"https://calcutemp.link.app/",
+     "link":"https://calcutemp.netlify.app",
      "lang":"JS HTML CSS",
      "desc":"Converts from Celsius to Fahrenheit. "
     },
