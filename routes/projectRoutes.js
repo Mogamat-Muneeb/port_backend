@@ -81,6 +81,14 @@ let projects = [
     "lang":"Figma",
     "desc":"Basic mobile app design."
     },
+    {"title":"Realtime Digital Clock",
+    "id":6,
+    "img":"https://i.postimg.cc/NG77Fw1J/Screenshot-2022-11-27-at-00-15-12.png",
+    "github":"https://github.com/Mogamat-Muneeb/digital-clock",
+    "link":"https://digitalclock-ruddy.vercel.app/",
+    "lang":"VueJs Tailwind",
+    "desc":"Simple realtime digital clock."
+    },
     ];
         
 
