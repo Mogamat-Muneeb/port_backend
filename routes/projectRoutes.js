@@ -89,6 +89,14 @@ let projects = [
     "lang":"VueJs Tailwind",
     "desc":"Simple realtime digital clock."
     },
+    {"title":"Fun Note",
+    "id":7,
+    "img":"https://i.postimg.cc/qvLGgWhf/fun-App.png",
+    "github":"https://github.com/Mogamat-Muneeb/funnotesapp",
+    "link":"https://funnotesapp.web.app/",
+    "lang":"React Tailwind Firebase ",
+    "desc":"Simple notes app concept."
+    },
     ];
         
 
