@@ -96,7 +96,15 @@ let projects = [
     "link":"https://funnotesapp.web.app/",
     "lang":"React Tailwind Firebase ",
     "desc":"Simple notes app concept."
-    }
+    },
+    {"title":"focusflowx",
+    "id":7,
+    "img":"https://i.postimg.cc/htQ188bg/Whats-App-Image-2023-04-10-at-12-38-40.jpg",
+    "github":"https://github.com/Mogamat-Muneeb/focusflowx",
+    "link":"https://focusflowx.vercel.app/",
+    "lang":"React Tailwind",
+    "desc":"A pomodoro app."
+    },
     ];
         
 
