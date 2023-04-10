@@ -89,7 +89,15 @@ let projects = [
     "lang":"VueJs Tailwind",
     "desc":"Simple realtime digital clock."
     },
-    // {"title":"Fun Note",
+    {"title":"focusflowx",
+    "id":7,
+    "img":"https://i.postimg.cc/htQ188bg/Whats-App-Image-2023-04-10-at-12-38-40.jpg",
+    "github":"https://github.com/Mogamat-Muneeb/focusflowx",
+    "link":"https://focusflowx.vercel.app/",
+    "lang":"React Tailwind",
+    "desc":"A pomodoro app."
+    },
+        // {"title":"Fun Note",
     // "id":7,
     // "img":"https://i.postimg.cc/qvLGgWhf/fun-App.png",
     // "github":"https://github.com/Mogamat-Muneeb/funnotesapp",
