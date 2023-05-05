@@ -3,14 +3,14 @@ const app = express.Router();
 // const fixArrayId = require('../helpers')
 
 let projects = [
-    {"title":"The Blog",
-    "id":1,
-    "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
-    "github":"https://github.com/Mullins69/blogplatform_backend",
-    "link":"https://the-blog3.web.app/#/",
-    "lang":"Vue.JS Node.JS MongoDB Bootstrap",
-    "desc":"A Blog Platform. A Group Project. "
-    },
+    // {"title":"The Blog",
+    // "id":1,
+    // "img":"https://i.postimg.cc/dt2Qkdw1/Screenshot-22.png",
+    // "github":"https://github.com/Mullins69/blogplatform_backend",
+    // "link":"https://the-blog3.web.app/#/",
+    // "lang":"Vue.JS Node.JS MongoDB Bootstrap",
+    // "desc":"A Blog Platform. A Group Project. "
+    // },
     // {"title":"E-Commerce Website",
     // "id":1,
     // "img":"https://i.postimg.cc/N086frVf/Screenshot-41.png",
@@ -19,14 +19,14 @@ let projects = [
     // "lang":"HTML/CSS",
     // "desc":"An online store that sells one product."
     // },
-    {"title":"JS Calculator",
-    "id":2,
-    "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
-    "github":"https://github.com/Mogamat-Muneeb/calculator_2",
-    "link":"https://jscalculator2.netlify.app",
-    "lang":"JS HTML CSS",
-    "desc":"A basic calculator with full functionality."
-    },
+    // {"title":"JS Calculator",
+    // "id":2,
+    // "img":"https://i.postimg.cc/FsW-qgkZd/Screenshot-49.png",
+    // "github":"https://github.com/Mogamat-Muneeb/calculator_2",
+    // "link":"https://jscalculator2.netlify.app",
+    // "lang":"JS HTML CSS",
+    // "desc":"A basic calculator with full functionality."
+    // },
     // {"title":"Reaction Game",
     // "id":4,
     // "img":"https://i.postimg.cc/rFf6nP8p/Screenshot-50.png",
@@ -51,14 +51,14 @@ let projects = [
     //  "desc":"A typical online store."
     // },
      {"title":"Temp Convertor",
-     "id":3,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
+     "id":1,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "link":"https://calcutemp.netlify.app",
      "lang":"JS HTML CSS",
      "desc":"Converts from Celsius to Fahrenheit. "
     },
     {"title":"Booking Website",
-    "id":4,
+    "id":2,
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "link":"https://the-urbanshave-barbershop.web.app/",
@@ -74,7 +74,7 @@ let projects = [
     // "desc":"Simple Point Of Sale. "
     // },
     {"title":"Mobile App Design",
-    "id":5,
+    "id":3,
     "img":"https://i.postimg.cc/fRgxrdPM/Screenshot-41.png",
     "github":"https://github.com/Mogamat-Muneeb/TASKIFY",
     "link":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
@@ -82,7 +82,7 @@ let projects = [
     "desc":"Basic mobile app design."
     },
     {"title":"Realtime Digital Clock",
-    "id":6,
+    "id":4,
     "img":"https://i.postimg.cc/NG77Fw1J/Screenshot-2022-11-27-at-00-15-12.png",
     "github":"https://github.com/Mogamat-Muneeb/digital-clock",
     "link":"https://digitalclock-ruddy.vercel.app/",
@@ -90,7 +90,7 @@ let projects = [
     "desc":"Simple realtime digital clock."
     },
     {"title":"Fun Note",
-    "id":7,
+    "id":5,
     "img":"https://i.postimg.cc/qvLGgWhf/fun-App.png",
     "github":"https://github.com/Mogamat-Muneeb/funnotesapp",
     "link":"https://funnotesapp.web.app/",
@@ -98,7 +98,7 @@ let projects = [
     "desc":"Simple notes app concept."
     },
     {"title":"focusflowx",
-    "id":7,
+    "id":6,
     "img":"https://i.postimg.cc/htQ188bg/Whats-App-Image-2023-04-10-at-12-38-40.jpg",
     "github":"https://github.com/Mogamat-Muneeb/focusflowx",
     "link":"https://focusflowx.vercel.app/",
@@ -106,7 +106,6 @@ let projects = [
     "desc":"A pomodoro app."
     },
     ];
-        
 
 //get all projects
 app.get('/',(req,res) => {
