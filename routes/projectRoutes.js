@@ -50,15 +50,31 @@ let projects = [
     //  "lang":"JS",
     //  "desc":"A typical online store."
     // },
+    {"title":"Fun Note",
+    "id":1,
+    "img":"https://i.postimg.cc/qvLGgWhf/fun-App.png",
+    "github":"https://github.com/Mogamat-Muneeb/funnotesapp",
+    "link":"https://funnotesapp.web.app/",
+    "lang":"React Tailwind Firebase ",
+    "desc":"Simple notes app concept."
+    },
+    {"title":"focusflowx",
+    "id":2,
+    "img":"https://i.postimg.cc/htQ188bg/Whats-App-Image-2023-04-10-at-12-38-40.jpg",
+    "github":"https://github.com/Mogamat-Muneeb/focusflowx",
+    "link":"https://focusflowx.vercel.app/",
+    "lang":"React Tailwind",
+    "desc":"A pomodoro app."
+    },
      {"title":"Temp Convertor",
-     "id":1,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
+     "id":3,"img":"https://i.postimg.cc/fRVwYBJj/Screenshot-37.png",
      "github":"https://github.com/Mogamat-Muneeb/TEMPERATURE-CONVERTOR",
      "link":"https://calcutemp.netlify.app",
      "lang":"JS HTML CSS",
      "desc":"Converts from Celsius to Fahrenheit. "
     },
     {"title":"Booking Website",
-    "id":2,
+    "id":4,
     "img":"https://i.postimg.cc/sxt8Wz7r/Screenshot-1.png",
     "github":"https://github.com/Mogamat-Muneeb/BARBERSHOP-FRONTEND",
     "link":"https://the-urbanshave-barbershop.web.app/",
@@ -74,7 +90,7 @@ let projects = [
     // "desc":"Simple Point Of Sale. "
     // },
     {"title":"Mobile App Design",
-    "id":3,
+    "id":5,
     "img":"https://i.postimg.cc/fRgxrdPM/Screenshot-41.png",
     "github":"https://github.com/Mogamat-Muneeb/TASKIFY",
     "link":"https://www.figma.com/file/Sg5yXsUeMPvL79n7w5oC67/Fitness-App?node-id=0%3A1",
@@ -82,29 +98,14 @@ let projects = [
     "desc":"Basic mobile app design."
     },
     {"title":"Realtime Digital Clock",
-    "id":4,
+    "id":6,
     "img":"https://i.postimg.cc/NG77Fw1J/Screenshot-2022-11-27-at-00-15-12.png",
     "github":"https://github.com/Mogamat-Muneeb/digital-clock",
     "link":"https://digitalclock-ruddy.vercel.app/",
     "lang":"VueJs Tailwind",
     "desc":"Simple realtime digital clock."
     },
-    {"title":"Fun Note",
-    "id":5,
-    "img":"https://i.postimg.cc/qvLGgWhf/fun-App.png",
-    "github":"https://github.com/Mogamat-Muneeb/funnotesapp",
-    "link":"https://funnotesapp.web.app/",
-    "lang":"React Tailwind Firebase ",
-    "desc":"Simple notes app concept."
-    },
-    {"title":"focusflowx",
-    "id":6,
-    "img":"https://i.postimg.cc/htQ188bg/Whats-App-Image-2023-04-10-at-12-38-40.jpg",
-    "github":"https://github.com/Mogamat-Muneeb/focusflowx",
-    "link":"https://focusflowx.vercel.app/",
-    "lang":"React Tailwind",
-    "desc":"A pomodoro app."
-    },
+ 
     ];
 
 //get all projects
