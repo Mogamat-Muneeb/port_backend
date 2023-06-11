@@ -105,7 +105,15 @@ let projects = [
     "lang":"VueJs Tailwind",
     "desc":"Simple realtime digital clock."
     },
- 
+    {"title":"Github ProfileViewer",
+    "id":7,
+    "img":"https://i.postimg.cc/XqP94mNG/Screenshot-2023-06-11-at-14-03-33.png",
+    "github":"https://github.com/Mogamat-Muneeb/Github-Profile-Viewer",
+    "link":"https://github-profile-viewer-green.vercel.app/",
+    "lang":"React Tailwind",
+    "desc":"A tool that allows users to quickly view and analyze GitHub profiles."
+    },
+
     ];
 
 //get all projects
