@@ -105,7 +105,7 @@ let projects = [
     "lang":"VueJs Tailwind",
     "desc":"Simple realtime digital clock."
     },
-    {"title":"Github ProfileViewer",
+    {"title":"Github Profile Viewer",
     "id":7,
     "img":"https://i.postimg.cc/XqP94mNG/Screenshot-2023-06-11-at-14-03-33.png",
     "github":"https://github.com/Mogamat-Muneeb/Github-Profile-Viewer",
