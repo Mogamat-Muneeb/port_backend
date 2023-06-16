@@ -113,6 +113,14 @@ let projects = [
     "lang":"React Tailwind",
     "desc":"A tool that allows users to quickly view and analyze GitHub profiles."
     },
+    {"title":"Random Quote Generator",
+    "id":8,
+    "img":"https://i.postimg.cc/RVSr53bc/Screenshot-2023-06-16-204710.png",
+    "github":"https://github.com/Mogamat-Muneeb/randomquotegenerator",
+    "link":"https://randomquotegenerator-eight.vercel.app/",
+    "lang":"React TypeScript Tailwind",
+    "desc":"A simple app that randomly selects quotes from an API."
+    },
 
     ];
 
