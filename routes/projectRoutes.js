@@ -121,6 +121,14 @@ let projects = [
     "lang":"React TypeScript Tailwind",
     "desc":"A simple app that randomly selects quotes from an API."
     },
+    {"title":"Circledop Social Media App",
+    "id":9,
+    "img":"https://i.postimg.cc/1zq0y7Nr/Screenshot-2023-06-24-at-14-04-14.png",
+    "github":"https://github.com/Mogamat-Muneeb/social-media-app",
+    "link":"https://circledop.web.app/",
+    "lang":"React TypeScript Tailwind Firebase",
+    "desc":"A simple social media app concept."
+    },
 
     ];
 
