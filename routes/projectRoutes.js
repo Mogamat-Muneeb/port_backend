@@ -97,16 +97,16 @@ let projects = [
     "lang":"Figma",
     "desc":"Basic mobile app design."
     },
-    {"title":"Realtime Digital Clock",
-    "id":6,
-    "img":"https://i.postimg.cc/NG77Fw1J/Screenshot-2022-11-27-at-00-15-12.png",
-    "github":"https://github.com/Mogamat-Muneeb/digital-clock",
-    "link":"https://digitalclock-ruddy.vercel.app/",
-    "lang":"VueJs Tailwind",
-    "desc":"Simple realtime digital clock."
-    },
+    // {"title":"Realtime Digital Clock",
+    // "id":6,
+    // "img":"https://i.postimg.cc/NG77Fw1J/Screenshot-2022-11-27-at-00-15-12.png",
+    // "github":"https://github.com/Mogamat-Muneeb/digital-clock",
+    // "link":"https://digitalclock-ruddy.vercel.app/",
+    // "lang":"VueJs Tailwind",
+    // "desc":"Simple realtime digital clock."
+    // },
     {"title":"Github Profile Viewer",
-    "id":7,
+    "id":6,
     "img":"https://i.postimg.cc/XqP94mNG/Screenshot-2023-06-11-at-14-03-33.png",
     "github":"https://github.com/Mogamat-Muneeb/Github-Profile-Viewer",
     "link":"https://github-profile-viewer-green.vercel.app/",
@@ -114,7 +114,7 @@ let projects = [
     "desc":"A tool that allows users to quickly view and analyze GitHub profiles."
     },
     {"title":"Random Quote Generator",
-    "id":8,
+    "id":7,
     "img":"https://i.postimg.cc/RVSr53bc/Screenshot-2023-06-16-204710.png",
     "github":"https://github.com/Mogamat-Muneeb/randomquotegenerator",
     "link":"https://randomquotegenerator-eight.vercel.app/",
@@ -122,7 +122,7 @@ let projects = [
     "desc":"A simple app that randomly selects quotes from an API."
     },
     {"title":"Circledop Social Media App",
-    "id":9,
+    "id":8,
     "img":"https://i.postimg.cc/1zq0y7Nr/Screenshot-2023-06-24-at-14-04-14.png",
     "github":"https://github.com/Mogamat-Muneeb/social-media-app",
     "link":"https://circledop.web.app/",
@@ -130,7 +130,7 @@ let projects = [
     "desc":"A simple social media app concept."
     },
     {"title":"Wordle For Mates",
-    "id":10,
+    "id":9,
     "img":"https://i.postimg.cc/pLhSTrm7/Screenshot-2023-07-05-at-17-06-00.png",
     "github":"https://github.com/Mogamat-Muneeb/wordle-for-mates",
     "link":"https://wordle-for-mates.vercel.app/",
