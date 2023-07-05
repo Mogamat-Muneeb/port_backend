@@ -135,7 +135,7 @@ let projects = [
     "github":"https://github.com/Mogamat-Muneeb/wordle-for-mates",
     "link":"https://wordle-for-mates.vercel.app/",
     "lang":"React Tailwind ",
-    "desc":"Elevating the Wordle concept, our platform lets you add your own word and share a link for others to guess."
+    "desc":"Elevating the Wordle concept, my platform lets you add your own word and share a link for others to guess."
     },
 
     ];
