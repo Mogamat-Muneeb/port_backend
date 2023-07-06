@@ -129,14 +129,14 @@ let projects = [
     "lang":"React TypeScript Tailwind Firebase",
     "desc":"A simple social media app concept."
     },
-    // {"title":"Wordle For Mates",
-    // "id":9,
-    // "img":"https://i.postimg.cc/pLhSTrm7/Screenshot-2023-07-05-at-17-06-00.png",
-    // "github":"https://github.com/Mogamat-Muneeb/wordle-for-mates",
-    // "link":"https://wordle-for-mates.vercel.app/",
-    // "lang":"React Tailwind ",
-    // "desc":"Elevating the Wordle concept, my platform lets you add your own word and share a link for others to guess."
-    // },
+    {"title":"Wordle For Mates",
+    "id":9,
+    "img":"https://i.postimg.cc/pLhSTrm7/Screenshot-2023-07-05-at-17-06-00.png",
+    "github":"https://github.com/Mogamat-Muneeb/wordle-for-mates",
+    "link":"https://wordle-for-mates.vercel.app/",
+    "lang":"React Tailwind ",
+    "desc":"Elevating the Wordle concept, my platform lets you add your own word and share a link for others to guess."
+    },
 
     ];
 
