@@ -137,6 +137,14 @@ let projects = [
     "lang":"React Tailwind ",
     "desc":"Elevating the Wordle concept, my platform lets you add your own word and share a link for others to guess."
     },
+    {"title":"v1Todo",
+    "id":10,
+    "img":"https://i.postimg.cc/5Nj2jCWP/Screenshot-2023-07-09-at-20-42-07.png",
+    "github":"https://github.com/Mogamat-Muneeb/v1todo",
+    "link":"https://v1todo.vercel.app/",
+    "lang":"VueJs Vite Tailwind ",
+    "desc":"Very simple todo app."
+    },
 
     ];
 
