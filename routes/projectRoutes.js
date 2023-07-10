@@ -143,7 +143,7 @@ let projects = [
     "github":"https://github.com/Mogamat-Muneeb/v1todo",
     "link":"https://v1todo.vercel.app/",
     "lang":"VueJs Vite Tailwind ",
-    "desc":"Very simple todo app."
+    "desc":"The v1Todo allows you to effortlessly add, edit, and mark tasks as complete. Its intuitive controls make it easy to navigate."
     },
 
     ];
